@@ -1,0 +1,29 @@
+/* .parallax-container {
+  perspective: 1px;
+  height: auto;
+  overflow-x: hidden;
+  overflow-y: auto;
+  transform-style: preserve-3d;
+}
+
+.parallax-section {
+  position: relative;
+  transform-style: preserve-3d;
+}
+
+.parallax-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  will-change: transform;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.parallax-layer img {
+  width: 100%;
+  height: auto;
+  opacity: 0.2;
+} */
