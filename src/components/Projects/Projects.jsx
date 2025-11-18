@@ -31,6 +31,27 @@ const Projects = ()=> {
       tech: "React, CSS, HTML",
       live: "",
       code: "https://github.com/Ollah55/modies-food"
+    },
+    {
+      title: "Digital Banking Landing Page",
+      description: "Next Generation Digital Banking landing Page.",
+      tech: "JAvaScript, CSS, HTML",
+      live: "",
+      code: "https://github.com/Ollah55/digital-banking-landing"
+    },
+    {
+      title: "Rock Paper Scissors Game",
+      description: "Simple game to test my JavaScript skills.",
+      tech: "JavaScript, CSS, HTML",
+      live: "",
+      code: "https://github.com/Ollah55/rock-paper-scissors"
+    },
+    {
+       title: "Intro Component with sign up form",
+      description: "Simple sign in and sign up form page.",
+      tech: "JavaScript, CSS, HTML",
+      live: "",
+      code: "https://github.com/Ollah55/intro-component-with-signup-form-master" 
     }
   ];
 
